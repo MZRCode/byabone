@@ -3,7 +3,7 @@ v14 Discord kütüphaneli Abone Bot Altyapısıdır.
 
 ## ❤️ Özellikler
 ### Abone Komutları
-> ✅ abone Komutu <br>
+> ✅ Abone Komutu <br>
 > ✅ Abone Log Ayarla SubCommand <br>
 > ✅ Abone Rol Al SubCommand <br>
 > ✅ Abone Rol Ver SubCommand <br>
