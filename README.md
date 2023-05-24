@@ -9,11 +9,11 @@ v14 Discord kütüphaneli Abone Bot Altyapısıdır.
 > ✅ Abone Rol Ver SubCommand <br>
 > ✅ Abone Rol Ayarla SubCommand <br>
 > ✅ Abone Yetkili Rol Ayarla SubCommand <br>
-> ✅ Ayarlar SubCommand <br>
 > ✅ Veri Sıfırla SubCommand <br>
-> ✅ Yetkili Bilgi Komutu <br>
 
 ### Kullanıcı Komutları
+> ✅ Ayarlar SubCommand <br>
+> ✅ Yetkili Bilgi Komutu <br>
 > ✅ Help Komutu <br>
 > ✅ Ping Komutu <br>
 > ✅ Invite Komutu <br>
