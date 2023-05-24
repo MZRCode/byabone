@@ -27,7 +27,7 @@ module.exports = {
             const embed = new EmbedBuilder()
             .setTitle(`${client.user.username} Botuna Destek Ver`)
             .setDescription(`**${client.user.username}** Botunu kullanarak Discorddaki AutoMod kurallarını kurabilirsiniz.`)
-            .setColor("#0099ff")
+            .setColor("##5865F2")
             .setThumbnail(client.user.displayAvatarURL({ dynamic: true, size: 1024 }))
             return interaction.reply({ ephemeral: true, embeds: [embed], components: [link_button] })
         }
