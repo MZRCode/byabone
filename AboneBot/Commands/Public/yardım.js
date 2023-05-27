@@ -2,7 +2,7 @@ const { ChatInputCommandInteraction, SlashCommandBuilder, Client, EmbedBuilder }
 
 module.exports = {
     data: new SlashCommandBuilder()
-    .setName("help")
+    .setName("yardım")
     .setDescription("Yardım Menüsünü Gösterir"),
     /**
      * @param {Client} client
