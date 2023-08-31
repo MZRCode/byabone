@@ -19,7 +19,6 @@ module.exports = {
     if (!aboneyetkilisi)
       return interaction.reply({ content: 'Abone yetkili rolü ayarlanmamış!', ephemeral: true });
 
-    const aboneyetkilisiBit = BigInt(aboneyetkilisi);
     const memberRoles = interaction.member.roles;
 
     if (
